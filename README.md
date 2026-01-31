@@ -34,3 +34,4 @@ The program supports the following matrix operations:
 ---
 
 ## 📂 File Information
+Project.c contains the complete source code
